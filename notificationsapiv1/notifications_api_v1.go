@@ -21,7 +21,7 @@ import (
 	"fmt"
 
 	"github.com/IBM/go-sdk-core/core"
-	common "github.com/ibm-cloud-security/security-advisor-sdk-go/common"
+	common "github.com/prince737/go-sdk-test/common"
 )
 
 // NotificationsApiV1 : notifications-api
