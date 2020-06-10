@@ -22,7 +22,7 @@ import (
 	"net/http/httptest"
 	"strings"
 
-	"github.com/IBM/go-sdk-core/core"
+	"github.com/IBM/go-sdk-core/v4/core"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/prince737/go-sdk-test/notificationsapiv1"
